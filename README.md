@@ -1,2 +1,2 @@
 # hello-world
-Sample repository
+I'm Scott Butters!
